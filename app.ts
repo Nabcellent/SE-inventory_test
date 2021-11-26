@@ -1,4 +1,4 @@
-import express, {Request,Response,Application} from 'express';
+import express, {Application} from 'express';
 
 const indexRouter = require('./src/routes/index');
 const lotsRouter = require('./src/routes/lots');
