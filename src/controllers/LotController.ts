@@ -1,5 +1,5 @@
 import {Request, Response} from "express";
-import * as model from '../models';
+import * as model from '../../models';
 import {
     Model,
     Op

@@ -1,5 +1,5 @@
 import {Sequelize} from "sequelize";
-import * as configFile from '../../config/config'
+import * as configFile from '../config/config'
 
 const fs = require('fs');
 const path = require('path');
